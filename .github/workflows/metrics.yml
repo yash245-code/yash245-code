@@ -1,0 +1,24 @@
+name: generate metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # refreshes every 6 hours
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: yash245-code
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_habits: yes
+          plugin_isocalendar: yes
