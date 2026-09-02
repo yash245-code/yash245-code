@@ -40,7 +40,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🗞️ **Haldwani Times** | News website — VPS deployment, Nginx, CI/CD via GitHub Actions | Node.js, Nginx, GitHub Actions |
 | 🧩 **web-bB** | SaaS product in development | Next.js, Node.js |
 | 🌐 **InAmigos Foundation Site** | AI-assisted NGO website with a custom README | React |
 | 💼 **Client Portfolio Deployments** | End-to-end deploy: repo cleanup, Vercel hosting, DNS config | React, Vercel, GoDaddy DNS |
