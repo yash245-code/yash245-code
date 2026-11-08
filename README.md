@@ -29,10 +29,10 @@ I'm a BCA student and software developer who enjoys working across the whole sta
 
 | Area | Technologies |
 |---|---|
-| **Frontend** | React, JavaScript, HTML, CSS |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, HTML, CSS |
 | **Backend** | Node.js, Express, Python |
-| **Languages** | JavaScript, Python, C# |
-| **Database and Tools** | MongoDB / SQL, Git, GitHub, VS Code |
+| **Languages** | JavaScript, TypeScript, Python, C# |
+| **Database and Tools** | MongoDB, MySQL, Git, GitHub, VS Code, Vercel, Nginx |
 | **Strengths** | Problem solving, deployment, building end-to-end apps |
 
 ---
@@ -42,42 +42,62 @@ I'm a BCA student and software developer who enjoys working across the whole sta
 Click a project to expand it.
 
 <details>
-<summary><b>AI Voice Assistant</b> — a voice-driven assistant built as a portfolio project</summary>
+<summary><b>my-portfolio</b> — personal portfolio website</summary>
 <br>
 
-- **What it does:** takes spoken commands and responds with actions and answers
-- **Stack:** Python
-- **Link:** [View repository](https://github.com/yash245-code/REPO-NAME)
+- **What it is:** my personal portfolio with projects, certifications and a contact section
+- **Stack:** Next.js 14, TypeScript, Tailwind CSS
+- **Link:** [View repository](https://github.com/yash245-code/my-portfolio)
 
 </details>
 
 <details>
-<summary><b>Haldwani Times</b> — a news website, built and deployed end to end</summary>
+<summary><b>ngo-site</b> — website built during my InAmigos AI Web Development internship</summary>
 <br>
 
-- **What it does:** publishes and displays local news articles
-- **Stack:** React, Node.js
-- **Link:** [View repository](https://github.com/yash245-code/REPO-NAME)
+- **What it is:** the site I created for task 4 of the internship
+- **Stack:** Frontend (CSS)
+- **Link:** [View repository](https://github.com/yash245-code/ngo-site)
 
 </details>
 
 <details>
-<summary><b>Freshers Event QR Check-in</b> — a web app for a college event</summary>
+<summary><b>nitin-khatri-portfolio</b> — portfolio website for a friend</summary>
 <br>
 
-- **What it does:** alumni scan a QR code, enter their email or phone, and get a welcome screen if matched
-- **Stack:** React, Node.js
-- **Link:** [View repository](https://github.com/yash245-code/REPO-NAME)
+- **What it is:** a portfolio site I built and helped deploy for a friend
+- **Stack:** Frontend (CSS)
+- **Link:** [View repository](https://github.com/yash245-code/nitin-khatri-portfolio)
 
 </details>
 
 <details>
-<summary><b>Kumaon Solar Website</b> — a homepage for a local solar-services business</summary>
+<summary><b>Calculator</b> — a simple calculator website</summary>
 <br>
 
-- **What it does:** presents the business and its services to customers in the Kumaon region
-- **Stack:** HTML, CSS, JavaScript
-- **Link:** [View repository](https://github.com/yash245-code/REPO-NAME)
+- **What it is:** a beginner project from the start of my web development journey
+- **Stack:** Frontend (CSS)
+- **Link:** [View repository](https://github.com/yash245-code/Calculator)
+
+</details>
+
+<details>
+<summary><b>TIC-TAC-TOE</b> — my first project</summary>
+<br>
+
+- **What it is:** a simple Tic-Tac-Toe game, the first project I ever made
+- **Stack:** Frontend (CSS)
+- **Link:** [View repository](https://github.com/yash245-code/TIC-TAC-TOE)
+
+</details>
+
+<details>
+<summary><b>node-express-course</b> — Node.js and Express practice</summary>
+<br>
+
+- **What it is:** my fork of a Node and Express course, used for hands-on backend learning
+- **Stack:** JavaScript, Node.js, Express
+- **Link:** [View repository](https://github.com/yash245-code/node-express-course)
 
 </details>
 
@@ -87,7 +107,7 @@ Click a project to expand it.
 
 | Role | Organization | Highlights |
 |---|---|---|
-| **Intern** | InAmigos Foundation | Internship work on development tasks |
+| **AI Web Development Intern** | InAmigos Foundation | Internship tasks, including building the ngo-site project |
 | **Class Representative** | Pal College of Technology & Management | Student liaison between classmates and faculty |
 
 ---
