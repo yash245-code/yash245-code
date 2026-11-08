@@ -130,8 +130,8 @@ Click a project to expand it.
 | Platform | Link |
 |---|---|
 | **GitHub** | [github.com/yash245-code](https://github.com/yash245-code) |
-| **LinkedIn** | [Add your LinkedIn URL](https://linkedin.com/in/YOUR-PROFILE) |
-| **Email** | your-email@example.com |
+| **LinkedIn** | [linkedin.com/in/yash-rawat]([https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/yash-rawat-6496639611y/)) |
+| **Email** | rawaty6393@gmail.com |
 
 <div align="center">
 
